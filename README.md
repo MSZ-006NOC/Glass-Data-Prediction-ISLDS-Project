@@ -1,8 +1,8 @@
 # ISLDS-Project---Glass-Data-Prediction
 ## ReadME
-- This project is based on the "Introduction to Statistical Learning and Data Science" (ISLDS) course taught by Professor Li Xia at South China University of Technology in Spring 2023. The project is a course design assignment.
+- This project is based on the "Introduction to Statistical Learning and Data Science" (ISLDS) course taught by Professor Li Xia at the South China University of Technology, School of Mathematics in Spring 2023. The project is a course design assignment.
 - The goal of the project is to predict specific glass properties (e.g., density, Abbe number, refractive index, transition temperature, or Young's modulus) based on an open-source dataset of glass properties. The main approach involves building predictive models using statistical learning techniques, leveraging oxide composition data from the dataset.
-- The original course guidelines suggested excluding halide and  chalcogenide glasses properties and recommended focusing on oxide composition rather than single-element composition for modeling and prediction.
+- The original course guidelines suggested excluding halide and  chalcogenide glass properties and recommended focusing on oxide composition rather than single-element composition for modeling and prediction.
 - In this project, I processed the oxide composition data and utilized Random Forest (RF) and Support Vector Machine (SVM) methods to predict glass density.
 - For details on data preprocessing, analysis, modeling, result analysis, and interface demonstration, please refer to the `Project-Presentation.html` file.
 - The dataset can be found in the `Dataset` folder.
@@ -24,5 +24,6 @@
 - 开源数据集链接
     - [SciGlass](https://github.com/epam/SciGlass)
     - [GlassPy](https://github.com/drcassar/glasspy)
+- 如果这个仓库能帮助到后续的同学作为参考，那真的太好了，毕竟做课设大家都挺头疼的是吧哈哈哈（求一个star）
 
 
