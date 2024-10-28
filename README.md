@@ -26,4 +26,129 @@
     - [GlassPy](https://github.com/drcassar/glasspy)
 - 如果这个仓库能帮助到后续的同学作为参考，那真的太好了，毕竟做课设大家都挺头疼的是吧哈哈哈（求一个star）
 
+## Results Display
+### Feature and response variable histograms and scatter plots
+<style>
+  .image-container {
+    text-align: center; /* 图片及标题居中对齐 */
+  }
+  .image-container img {
+    width: 1200px; /* 设置图片宽度为300像素 */
+    height: auto; /* 根据宽度自动调整高度 */
+  }
+  .image-container figcaption {
+    font-size: 20px; /* 设置标题文字大小为14像素 */
+    font-weight: bold; /* 设置标题文字加粗 */
+    margin-bottom: 10px; /* 设置标题上方距离为10像素 */
+  }
+</style>
 
+<figure class="image-container">
+  <figcaption>Histogram Plot</figcaption><img src="image/hist.png" alt="图片描述">
+</figure>
+
+<style>
+  .image-container {
+    text-align: center; /* 图片及标题居中对齐 */
+  }
+  .image-container img {
+    width: 800px; /* 设置图片宽度为300像素 */
+    height: auto; /* 根据宽度自动调整高度 */
+    padding-right: 10px; /* 设置图片右侧间隔为10像素 */
+  }
+  .image-container figcaption {
+    font-size: 20px; /* 设置标题文字大小为14像素 */
+    font-weight: bold; /* 设置标题文字加粗 */
+    margin-bottom: 5px; /* 设置标题上方距离为10像素 */
+  }
+
+</style>
+## Oxygen compound scatter plot
+<figure class="image-container">
+  <figcaption>SiO2</figcaption><img src="image/sio2.png" alt="图片描述">
+  <figcaption>GeO2</figcaption><img src="image/geo2.png" alt="图片描述">
+  <figcaption>Ga2O3</figcaption><img src="image/ga2o3.png" alt="图片描述">
+</figure>
+
+## Experimental Results
+<style>
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; /* 设置表格宽度为80% */
+    height: 80px; /* 设置表格高度为200像素 */
+    text-align: center; /* 将表格中的文本内容居中对齐 */
+  }
+  th, td {
+    font-size: 20px; /* 设置文字大小为16像素 */
+    font-weight: bold; /* 设置文字加粗 */
+  }
+  caption {
+    font-size: 24px; /* 设置标题文字大小为20像素 */
+    font-weight: bold; /* 设置标题文字加粗 */
+    margin-bottom: 10px;
+  }
+</style>
+<table>
+  <caption>Nonlinear SVM regression prediction</caption>
+  <tr>
+    <th>R2 score</th>
+    <th>MSE score</th>
+    <th>MAE score</th>
+  </tr>
+  <tr>
+    <td>0.8557</td>
+    <td>0.2133</td>
+    <td>0.22259</td>
+  </tr>
+</table>
+<style>
+  .image-with-padding {
+    padding-right: 30px; /* 设置图片右侧间隔为10像素 */
+  }
+  .component {
+    margin-top: 20px; /* 设置组件上方距离为20像素 */
+  }
+</style>
+<div align="center" class="component"><img src='image/svm_scatter.png'class="image-with-padding" alt="Image 1"><img src='image/svm_residual.png' alt="Image 2"></div>
+
+<style>
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; /* 设置表格宽度为80% */
+    height: 80px; /* 设置表格高度为200像素 */
+    text-align: center; /* 将表格中的文本内容居中对齐 */
+  }
+  th, td {
+    font-size: 20px; /* 设置文字大小为16像素 */
+    font-weight: bold; /* 设置文字加粗 */
+  }
+  caption {
+    font-size: 24px; /* 设置标题文字大小为20像素 */
+    font-weight: bold; /* 设置标题文字加粗 */
+    margin-bottom: 10px;
+  }
+</style>
+<table>
+  <caption>Random forest regression</caption>
+  <tr>
+    <th>R2 score</th>
+    <th>MSE score</th>
+    <th>MAE score</th>
+  </tr>
+  <tr>
+    <td>0.8678</td>
+    <td>0.196</td>
+    <td>0.204</td>
+  </tr>
+</table>
+<style>
+  .image-with-padding {
+    padding-right: 30px; /* 设置图片右侧间隔为10像素 */
+  }
+  .component {
+    margin-top: 20px; /* 设置组件上方距离为20像素 */
+  }
+</style>
+<div align="center" class="component"><img src='image/forest_scatter.png'class="image-with-padding" alt="Image 1"><img src='image/forest_residual.png' alt="Image 2"></div>
