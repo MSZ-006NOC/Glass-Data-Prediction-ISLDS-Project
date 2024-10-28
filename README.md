@@ -28,48 +28,25 @@
 
 ## Results Display
 ### Feature and response variable histograms and scatter plots
-<style>
-  .image-container {
-    text-align: center; /* 图片及标题居中对齐 */
-  }
-  .image-container img {
-    width: 1200px; /* 设置图片宽度为300像素 */
-    height: auto; /* 根据宽度自动调整高度 */
-  }
-  .image-container figcaption {
-    font-size: 20px; /* 设置标题文字大小为14像素 */
-    font-weight: bold; /* 设置标题文字加粗 */
-    margin-bottom: 10px; /* 设置标题上方距离为10像素 */
-  }
-</style>
-
-<figure class="image-container">
-  <figcaption>Histogram Plot</figcaption><img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/hist.png" alt="图片描述">
-</figure>
+<p align="center">
+  <strong style="font-size: 20px;">Histogram Plot</strong><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/hist.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+</p>
 
 
-<style>
-  .image-container {
-    text-align: center; /* 图片及标题居中对齐 */
-  }
-  .image-container img {
-    width: 800px; /* 设置图片宽度为300像素 */
-    height: auto; /* 根据宽度自动调整高度 */
-    padding-right: 10px; /* 设置图片右侧间隔为10像素 */
-  }
-  .image-container figcaption {
-    font-size: 20px; /* 设置标题文字大小为14像素 */
-    font-weight: bold; /* 设置标题文字加粗 */
-    margin-bottom: 5px; /* 设置标题上方距离为10像素 */
-  }
-
-</style>
 ## Oxygen compound scatter plot
-<figure class="image-container">
-  <figcaption>SiO2</figcaption><img src="image/sio2.png" alt="图片描述">
-  <figcaption>GeO2</figcaption><img src="image/geo2.png" alt="图片描述">
-  <figcaption>Ga2O3</figcaption><img src="image/ga2o3.png" alt="图片描述">
-</figure>
+<p align="center">
+  <strong style="font-size: 20px;">SiO2</strong><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/sio2.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+</p>
+<p align="center">
+  <strong style="font-size: 20px;">GeO2</strong><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/geo2.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+</p>
+<p align="center">
+  <strong style="font-size: 20px;">Ga2O3</strong><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/ga2o3.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+</p>
 
 ## Experimental Results
 <style>
