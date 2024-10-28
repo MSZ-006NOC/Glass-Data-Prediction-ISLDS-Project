@@ -51,7 +51,7 @@
 ## Experimental Results
 
 <table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
-  <caption>Nonlinear SVM regression prediction</caption>
+  <caption>Nonlinear SVM regression prediction<strong></caption>
   <tr>
     <th style="text-align: center;">R2 score</th>
     <th style="text-align: center;">MSE score</th>
@@ -65,43 +65,39 @@
 </table>
 
 
-<p align="center">
+<p>
   <strong style="font-size: 20px;"><br>
   <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
-<p align="center">
+<p>
   <strong style="font-size: 20px;"><br>
   <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
 
 
-<div style="text-align: center;">
-  <table style="margin: auto; width: 80%; font-size: 20px;">
-    <caption>Random forest regression</caption>
-    <tr>
-      <th style="text-align: center;">R2 score</th>
-      <th style="text-align: center;">MSE score</th>
-      <th style="text-align: center;">MAE score</th>
-    </tr>
-    <tr>
-      <td style="text-align: center;">0.8678</td>
-      <td style="text-align: center;">0.196</td>
-      <td style="text-align: center;">0.204</td>
-    </tr>
-  </table>
-</div>
+
+<table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
+<caption>Random forest regression<strong></caption>
+<tr>
+    <th style="text-align: center;">R2 score</th>
+    <th style="text-align: center;">MSE score</th>
+    <th style="text-align: center;">MAE score</th>
+</tr>
+<tr>
+    <td style="text-align: center;">0.8678</td>
+    <td style="text-align: center;">0.196</td>
+    <td style="text-align: center;">0.204</td>
+</tr>
+</table>
 
 
-| R2 score | MSE score | MAE score |
-|----------|-----------|-----------|
-| 0.8678   | 0.196     | 0.204     |
 
 
-<p align="center">
+<p>
   <strong style="font-size: 20px;"><br>
   <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
-<p align="center">
+<p>
   <strong style="font-size: 20px;"><br>
   <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
