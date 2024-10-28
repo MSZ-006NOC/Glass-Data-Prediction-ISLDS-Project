@@ -30,43 +30,26 @@
 ### Feature and response variable histograms and scatter plots
 <p align="center">
   <strong style="font-size: 20px;">Histogram Plot</strong><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/hist.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/hist.png" alt="Histogram Plot" style="width: 600px; height: auto; margin-top: 10px;">
 </p>
 
 
 ## Oxygen compound scatter plot
 <p align="center">
   <strong style="font-size: 20px;">SiO2</strong><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/sio2.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/sio2.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
 <p align="center">
   <strong style="font-size: 20px;">GeO2</strong><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/geo2.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/geo2.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
 <p align="center">
   <strong style="font-size: 20px;">Ga2O3</strong><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/ga2o3.png" alt="Histogram Plot" style="width: 1200px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/ga2o3.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
 </p>
 
 ## Experimental Results
-<style>
-  table {
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%; /* 设置表格宽度为80% */
-    height: 80px; /* 设置表格高度为200像素 */
-    text-align: center; /* 将表格中的文本内容居中对齐 */
-  }
-  th, td {
-    font-size: 20px; /* 设置文字大小为16像素 */
-    font-weight: bold; /* 设置文字加粗 */
-  }
-  caption {
-    font-size: 24px; /* 设置标题文字大小为20像素 */
-    font-weight: bold; /* 设置标题文字加粗 */
-    margin-bottom: 10px;
-  }
-</style>
+
 <table>
   <caption>Nonlinear SVM regression prediction</caption>
   <tr>
@@ -80,34 +63,18 @@
     <td>0.22259</td>
   </tr>
 </table>
-<style>
-  .image-with-padding {
-    padding-right: 30px; /* 设置图片右侧间隔为10像素 */
-  }
-  .component {
-    margin-top: 20px; /* 设置组件上方距离为20像素 */
-  }
-</style>
-<div align="center" class="component"><img src='image/svm_scatter.png'class="image-with-padding" alt="Image 1"><img src='image/svm_residual.png' alt="Image 2"></div>
 
-<style>
-  table {
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%; /* 设置表格宽度为80% */
-    height: 80px; /* 设置表格高度为200像素 */
-    text-align: center; /* 将表格中的文本内容居中对齐 */
-  }
-  th, td {
-    font-size: 20px; /* 设置文字大小为16像素 */
-    font-weight: bold; /* 设置文字加粗 */
-  }
-  caption {
-    font-size: 24px; /* 设置标题文字大小为20像素 */
-    font-weight: bold; /* 设置标题文字加粗 */
-    margin-bottom: 10px;
-  }
-</style>
+<p align="center">
+  <strong style="font-size: 20px;"><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+</p>
+<p align="center">
+  <strong style="font-size: 20px;"><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+</p>
+
+
+
 <table>
   <caption>Random forest regression</caption>
   <tr>
@@ -121,12 +88,12 @@
     <td>0.204</td>
   </tr>
 </table>
-<style>
-  .image-with-padding {
-    padding-right: 30px; /* 设置图片右侧间隔为10像素 */
-  }
-  .component {
-    margin-top: 20px; /* 设置组件上方距离为20像素 */
-  }
-</style>
-<div align="center" class="component"><img src='image/forest_scatter.png'class="image-with-padding" alt="Image 1"><img src='image/forest_residual.png' alt="Image 2"></div>
+
+<p align="center">
+  <strong style="font-size: 20px;"><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+</p>
+<p align="center">
+  <strong style="font-size: 20px;"><br>
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+</p>
