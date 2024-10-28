@@ -49,9 +49,9 @@
 </p>
 
 ## Experimental Results
+### Nonlinear SVM regression prediction
 
 <table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
-<caption>Nonlinear SVM regression prediction<strong></caption>
 <tr>
     <th style="text-align: center;">R2 score</th>
     <th style="text-align: center;">MSE score</th>
@@ -63,8 +63,6 @@
     <td style="text-align: center;">0.22259</td>
 </tr>
 </table>
-
-
 <p>
   <strong style="font-size: 20px;"><br>
   <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_scatter.png" alt="Histogram Plot" style="width: 400px; height: auto; margin-top: 10px;">
@@ -75,9 +73,9 @@
 </p>
 
 
+### Random forest regression
 
 <table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
-<caption>Random forest regression<strong></caption>
 <tr>
     <th style="text-align: center;">R2 score</th>
     <th style="text-align: center;">MSE score</th>
