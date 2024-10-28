@@ -44,8 +44,9 @@
 </style>
 
 <figure class="image-container">
-  <figcaption>Histogram Plot</figcaption><img src="image/hist.png" alt="图片描述">
+  <figcaption>Histogram Plot</figcaption><img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/hist.png" alt="图片描述">
 </figure>
+
 
 <style>
   .image-container {
