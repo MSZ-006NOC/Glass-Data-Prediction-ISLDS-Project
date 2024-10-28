@@ -24,7 +24,8 @@
 - 开源数据集链接
     - [SciGlass](https://github.com/epam/SciGlass)
     - [GlassPy](https://github.com/drcassar/glasspy)
-- 如果这个仓库能帮助到后续的同学作为参考，那真的太好了，毕竟做课设大家都挺头疼的是吧哈哈哈（求一个star）
+- 如果这个仓库能帮助到后续的同学作为参考，那真的太好了，欢迎分享给其他同学作为参考！
+- 如果对你有帮助，请不要吝啬为我点一个star，十分感谢XD
 
 ## Results Display
 ### Feature and response variable histograms and scatter plots
