@@ -50,19 +50,20 @@
 
 ## Experimental Results
 
-<table>
+<table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
   <caption>Nonlinear SVM regression prediction</caption>
   <tr>
-    <th>R2 score</th>
-    <th>MSE score</th>
-    <th>MAE score</th>
+    <th style="text-align: center;">R2 score</th>
+    <th style="text-align: center;">MSE score</th>
+    <th style="text-align: center;">MAE score</th>
   </tr>
   <tr>
-    <td>0.8557</td>
-    <td>0.2133</td>
-    <td>0.22259</td>
+    <td style="text-align: center;">0.8557</td>
+    <td style="text-align: center;">0.2133</td>
+    <td style="text-align: center;">0.22259</td>
   </tr>
 </table>
+
 
 <p align="center">
   <strong style="font-size: 20px;"><br>
@@ -75,19 +76,20 @@
 
 
 
-<table>
-  <caption>Random forest regression</caption>
+<table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
+  <caption style="text-align: center;">Random forest regression</caption>
   <tr>
-    <th>R2 score</th>
-    <th>MSE score</th>
-    <th>MAE score</th>
+    <th style="text-align: center;">R2 score</th>
+    <th style="text-align: center;">MSE score</th>
+    <th style="text-align: center;">MAE score</th>
   </tr>
   <tr>
-    <td>0.8678</td>
-    <td>0.196</td>
-    <td>0.204</td>
+    <td style="text-align: center;">0.8678</td>
+    <td style="text-align: center;">0.196</td>
+    <td style="text-align: center;">0.204</td>
   </tr>
 </table>
+
 
 <p align="center">
   <strong style="font-size: 20px;"><br>
