@@ -76,20 +76,25 @@
 
 
 <div style="text-align: center;">
-    <table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
-    <caption style="text-align: center;">Random forest regression</caption>
+  <table style="margin: auto; width: 80%; font-size: 20px;">
+    <caption>Random forest regression</caption>
     <tr>
-        <th style="text-align: center;">R2 score</th>
-        <th style="text-align: center;">MSE score</th>
-        <th style="text-align: center;">MAE score</th>
+      <th style="text-align: center;">R2 score</th>
+      <th style="text-align: center;">MSE score</th>
+      <th style="text-align: center;">MAE score</th>
     </tr>
     <tr>
-        <td style="text-align: center;">0.8678</td>
-        <td style="text-align: center;">0.196</td>
-        <td style="text-align: center;">0.204</td>
+      <td style="text-align: center;">0.8678</td>
+      <td style="text-align: center;">0.196</td>
+      <td style="text-align: center;">0.204</td>
     </tr>
-    </table>
+  </table>
 </div>
+
+
+| R2 score | MSE score | MAE score |
+|----------|-----------|-----------|
+| 0.8678   | 0.196     | 0.204     |
 
 
 <p align="center">
