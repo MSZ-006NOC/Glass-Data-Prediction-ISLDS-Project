@@ -51,27 +51,27 @@
 ## Experimental Results
 
 <table style="margin: auto; text-align: center; width: 80%; font-size: 20px;">
-  <caption>Nonlinear SVM regression prediction<strong></caption>
-  <tr>
+<caption>Nonlinear SVM regression prediction<strong></caption>
+<tr>
     <th style="text-align: center;">R2 score</th>
     <th style="text-align: center;">MSE score</th>
     <th style="text-align: center;">MAE score</th>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td style="text-align: center;">0.8557</td>
     <td style="text-align: center;">0.2133</td>
     <td style="text-align: center;">0.22259</td>
-  </tr>
+</tr>
 </table>
 
 
 <p>
   <strong style="font-size: 20px;"><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_scatter.png" alt="Histogram Plot" style="width: 400px; height: auto; margin-top: 10px;">
 </p>
 <p>
   <strong style="font-size: 20px;"><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/svm_residual.png" alt="Histogram Plot" style="width: 400px; height: auto; margin-top: 10px;">
 </p>
 
 
@@ -90,14 +90,11 @@
 </tr>
 </table>
 
-
-
-
 <p>
   <strong style="font-size: 20px;"><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_scatter.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_scatter.png" alt="Histogram Plot" style="width: 400px; height: auto; margin-top: 10px;">
 </p>
 <p>
   <strong style="font-size: 20px;"><br>
-  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_residual.png" alt="Histogram Plot" style="width: 500px; height: auto; margin-top: 10px;">
+  <img src="https://raw.githubusercontent.com/MSZ-006NOC/Glass-Data-Prediction-ISLDS-Project/main/Image/forest_residual.png" alt="Histogram Plot" style="width: 400px; height: auto; margin-top: 10px;">
 </p>
