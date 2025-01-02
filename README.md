@@ -1,5 +1,5 @@
 # ISLDS-Project---Glass-Data-Prediction
-## ReadME
+## README
 - This project is based on the "Introduction to Statistical Learning and Data Science" (ISLDS) course taught by Professor Li Xia at the South China University of Technology, School of Mathematics in Spring 2023. The project is a course design assignment.
 - The goal of the project is to predict specific glass properties (e.g., density, Abbe number, refractive index, transition temperature, or Young's modulus) based on an open-source dataset of glass properties. The main approach involves building predictive models using statistical learning techniques, leveraging oxide composition data from the dataset.
 - The original course guidelines suggested excluding halide and  chalcogenide glass properties and recommended focusing on oxide composition rather than single-element composition for modeling and prediction.
